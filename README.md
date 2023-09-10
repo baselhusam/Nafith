@@ -114,7 +114,6 @@ The Link for the Google Dirve is (Here)[https://clickml.streamlit.app]
 
 ├── assets
 │   ├── Data
-│   │   ├── **/*.css
 │   ├── Model
 │   ├── Model_Trans
 ├── dataset
