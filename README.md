@@ -106,7 +106,7 @@ Due to GitHub’s file size limit of 100MB, not all files are included in this r
 - `assets` Folder: This folder contains numpy arrays and saved history and weights for both models.
 - `dataset` Folder: This folder is not included in Google Drive because it’s assumed that you already have it on your machine.
 
-The Link for the Google Dirve is (Here)[https://clickml.streamlit.app]
+The Link for the Google Dirve is [Here](https://drive.google.com/drive/folders/1qwTNS8JNqg0oNG5F0Ck4zbL6SgCQZMdf?usp=sharing)
 
 **Note**: Make sure when you donwload the assets folder and unzip it to the project directory to have the following Folder Structure
 
