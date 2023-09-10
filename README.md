@@ -106,6 +106,35 @@ Due to GitHub’s file size limit of 100MB, not all files are included in this r
 - `assets` Folder: This folder contains numpy arrays and saved history and weights for both models.
 - `dataset` Folder: This folder is not included in Google Drive because it’s assumed that you already have it on your machine.
 
+The Link for the Google Dirve is (Here)[https://clickml.streamlit.app]
+
+**Note**: Make sure when you donwload the assets folder and unzip it to the project directory to have the following Folder Structure
+
+```
+
+├── assets
+│   ├── Data
+│   │   ├── **/*.css
+│   ├── Model
+│   ├── Model_Trans
+├── dataset
+│   ├── car
+│   ├── bus
+│   ├── truck
+|── Predictions
+│   ├── car
+│   ├── bus
+│   ├── truck
+├── read_and_split.py
+├── train.py
+├── test.py
+├── classifier.py
+├── utils.py
+├── main.ipynb
+├── requirements.txt
+└── demo.mkv
+```
+
 <br>
 
 ## FAQs ❓
