@@ -23,7 +23,7 @@ This repository contains the solution for a machine learning task provided by Na
 ## Getting Started 🏁
 To get started with this project, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/baselhusam/nafith`.
+1. Clone the repository using `git clone https://github.com/baselhusam/Nafith.git`.
 2. Install the required packages using `pip install -r requirements.txt`.
 Now you’re ready to run the scripts!
 
@@ -50,7 +50,7 @@ Here’s how you can run each script:
 ```bash
 
 # Clone the Repo
-git clone https://github.com/baselhusam/nafith.git
+git clone https://github.com/baselhusam/Nafith.git
 
 # Install the Requirements
 pip install -r requirements.txt
